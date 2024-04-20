@@ -1,0 +1,426 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        34,
+        1
+    ],
+    "data": [
+        [
+            [
+                "KR"
+            ],
+            [
+                "용기 하단의 QR코드를\nQR 리더기에 인식시켜 주세요."
+            ],
+            [
+                "반납 전, 용기 내의 음식과 음료를 모두 비워주세요!"
+            ],
+            [
+                "드림 용기가 인식되었습니다."
+            ],
+            [
+                "반납기 문이 열립니다."
+            ],
+            [
+                "컵+뚜껑 모두 반납 부탁드립니다."
+            ],
+            [
+                "추가 반납 용기가 있을 경우 ▼"
+            ],
+            [
+                "QR리더기에 1개씩 스캔 후, 반납함에 넣어주세요!"
+            ],
+            [
+                "반납된 수량"
+            ],
+            [
+                "개"
+            ],
+            [
+                "여러 개를 반납하시는 경우\n계속해서 하나씩 스캔해주세요."
+            ],
+            [
+                "[u]QR 인식이 안 되나요?[/u]"
+            ],
+            [
+                "Drimm 용기가 아닙니다."
+            ],
+            [
+                "다시 한 번 확인해주세요!"
+            ],
+            [
+                "3회 연속 실패 시, 재시작 합니다."
+            ],
+            [
+                "QR 인식을 3회 실패하여\n자동으로 다음 단계를 진행합니다!"
+            ],
+            [
+                "인식 실패 횟수 : "
+            ],
+            [
+                "회"
+            ],
+            [
+                "QR코드 인식이 안 되나요?"
+            ],
+            [
+                "반납 마지막 절차에서 도와드릴게요."
+            ],
+            [
+                "미인식된 컵은 반납함에 넣어주세요."
+            ],
+            [
+                "반납 용기 수량과\n환급 금액을 확인해 주세요."
+            ],
+            [
+                "환급 금액은 "
+            ],
+            [
+                "소형(S) 컵 + 뚜껑"
+            ],
+            [
+                "중형(M) 컵 + 뚜껑"
+            ],
+            [
+                "대형(L) 컵 + 뚜껑"
+            ],
+            [
+                "환급 금액이 다른가요?"
+            ],
+            [
+                "나머지 컵들은 반납을 진행해 주세요."
+            ],
+            [
+                "환급금 환불을 위해 여권번호를 입력해 주세요."
+            ],
+            [
+                "환불 신청을 완료했습니다.\n가까운 환불 자동화기에서 현금으로 받으세요!"
+            ],
+            [
+                "환급기 위치 : 하우목동항 / 우도 천진항"
+            ],
+            [
+                "하우목동항"
+            ],
+            [
+                "우도 천진항"
+            ],
+            [
+                "이 여권번호가 맞나요?\n정확하게 입력했는지 확인해주세요!"
+            ]
+        ],
+        [
+            [
+                "JP"
+            ],
+            [
+                "容器の底部にあるQRコードを\nQRリーダーでスキャンしてください。"
+            ],
+            [
+                "返却前に、容器内の食品や飲み物を\nすべて空にしてください!"
+            ],
+            [
+                "Drimm容器が認識されました。"
+            ],
+            [
+                "返却機のドアが開きます。"
+            ],
+            [
+                "コップとふたの両方とも返却をお願いします。"
+            ],
+            [
+                "追加返却容器がある場合 ▼"
+            ],
+            [
+                "QRリーダーで1つずつスキャンしてから、返却箱に入れてください!"
+            ],
+            [
+                "返却数量"
+            ],
+            [
+                "個"
+            ],
+            [
+                "複数のアイテムを返却する場合、\n1つずつ順番にスキャンし続けてください。"
+            ],
+            [
+                "[u]QRコードが読み取れませんか?[/u]"
+            ],
+            [
+                "Drimm容器ではありません。"
+            ],
+            [
+                "もう一度確認してください!"
+            ],
+            [
+                "3回連続で失敗した場合、最初からやり直します。"
+            ],
+            [
+                "QRコードの読み取りに3回失敗しましたので、\n自動的に次の手順に移ります!"
+            ],
+            [
+                "認識失敗回数 : "
+            ],
+            [
+                "回"
+            ],
+            [
+                "QRコードが読み取れませんか?"
+            ],
+            [
+                "該当品は返却の最終手続きでお手伝いいたします。"
+            ],
+            [
+                "認識されなかったカップは返却箱に入れてください。"
+            ],
+            [
+                "返却容器の数量と\n払い戻し金額を確認してください。"
+            ],
+            [
+                "返金額は "
+            ],
+            [
+                "小サイズのカップ + 蓋"
+            ],
+            [
+                "中サイズのカップ + 蓋"
+            ],
+            [
+                "大サイズのカップ + 蓋"
+            ],
+            [
+                "返金額が違いますか?"
+            ],
+            [
+                "残りのカップは返却してください。"
+            ],
+            [
+                "払い戻しのために\nパスポート番号を入力してください。"
+            ],
+            [
+                "返金申請が完了しました。\n最寄りの返金機から現金を受け取ってください!"
+            ],
+            [
+                "保証金返金機の場所：ハウモクドン港 / ウド天津港"
+            ],
+            [
+                "ハウモクドン港"
+            ],
+            [
+                "ウド 天津港"
+            ],
+            [
+                "このパスポート番号は正しいですか?\n正確に入力されたか確認してください!"
+            ]
+        ],
+        [
+            [
+                "CN"
+            ],
+            [
+                "请使用QR码阅读器\n扫描容器底部的QR码。"
+            ],
+            [
+                "请在返还前将容器内的食物和饮料全部倒空!"
+            ],
+            [
+                "Drimm容器被识别了。"
+            ],
+            [
+                "返还机的门会打开。"
+            ],
+            [
+                "請把的杯子和蓋子都返还。"
+            ],
+            [
+                "如果还有返还的容器时 ▼"
+            ],
+            [
+                "请逐个使用QR阅读器扫描，然后放入返还机!"
+            ],
+            [
+                "返回数量"
+            ],
+            [
+                "个"
+            ],
+            [
+                "如果您要返还多件物品，\n请继续逐一扫描。"
+            ],
+            [
+                "[u]无法识别QR码吗?[/u]"
+            ],
+            [
+                "这不是Drimm容器。"
+            ],
+            [
+                "请再次确认!"
+            ],
+            [
+                "连续失败3次后，会从新开始。"
+            ],
+            [
+                "由于QR码识别失败3次，\n将自动进行下一步操作!"
+            ],
+            [
+                "识别失败次数 : "
+            ],
+            [
+                "次"
+            ],
+            [
+                "无法识别QR码吗?"
+            ],
+            [
+                "我们会协助您在返还的最后流程。"
+            ],
+            [
+                "无法识别的杯子请放入返还机中。"
+            ],
+            [
+                "请确认返还容器数量和退款金额。"
+            ],
+            [
+                "退款金额是 "
+            ],
+            [
+                "小号(S)杯子 + 盖子"
+            ],
+            [
+                "中号(M)杯子 + 盖子"
+            ],
+            [
+                "大号(L)杯子 + 盖子"
+            ],
+            [
+                "退款金额不同吗?"
+            ],
+            [
+                "剩下的杯子请继续返还。"
+            ],
+            [
+                "请输入护照号码以退款。"
+            ],
+            [
+                "退款申请已完成。\n请在最近的退款机上以现金方式领取!"
+            ],
+            [
+                "保证金退款机位置：下牛木洞港 / 牛岛天津港"
+            ],
+            [
+                "下牛木洞港"
+            ],
+            [
+                "牛岛 天津港"
+            ],
+            [
+                "这个护照号码正确吗?\n请确认输入是否准确!"
+            ]
+        ],
+        [
+            [
+                "US"
+            ],
+            [
+                "Please scan the QR code at the bottom\nof the container with a QR code reader."
+            ],
+            [
+                "Please empty all food and drinks\nfrom the container before returning it!"
+            ],
+            [
+                "Drimm container has been recognized."
+            ],
+            [
+                "The return box door opens."
+            ],
+            [
+                "Please return both the cup and the lid."
+            ],
+            [
+                "If there are additional return containers ▼"
+            ],
+            [
+                "Please scan one by one using the QR reader\nand then place them into the return box!"
+            ],
+            [
+                "Returned quantity"
+            ],
+            [
+                " item(s)"
+            ],
+            [
+                "If you are returning multiple items,\nplease continue to scan one by one."
+            ],
+            [
+                "[u]Is the QR code not being recognized?[/u]"
+            ],
+            [
+                "This is not a Drimm container."
+            ],
+            [
+                "Please confirm again!"
+            ],
+            [
+                "If failed three times in a row, it will restart."
+            ],
+            [
+                "Failed to recognize QR code 3 times,\nautomatically proceed to the next step!"
+            ],
+            [
+                "Failure count :"
+            ],
+            [
+                " time(s)"
+            ],
+            [
+                "Is the QR code not being recognized?"
+            ],
+            [
+                "We can help you with that at the end."
+            ],
+            [
+                "Please place the unrecognized cup into the return box."
+            ],
+            [
+                "Please confirm the\nquantity of return containers\nand the refund amount."
+            ],
+            [
+                "The refund amount is "
+            ],
+            [
+                "Small cup + lid"
+            ],
+            [
+                "Medium cup + lid"
+            ],
+            [
+                "Large cup + lid"
+            ],
+            [
+                "Is the total refund amount incorrect?"
+            ],
+            [
+                "Please proceed with returning the remaining cups."
+            ],
+            [
+                "Please enter your passport number\nfor refund processing."
+            ],
+            [
+                "Application for refund has been completed.\nRetrieve your cash from the nearest deposit refund machine!"
+            ],
+            [
+                "Refund machine location : Haumokdong Port / Udo Cheonjin Port"
+            ],
+            [
+                "Haumokdong Port"
+            ],
+            [
+                "Udo Cheonjin Port"
+            ],
+            [
+                "Is this passport number correct?\nPlease verify if it has been entered accurately!"
+            ]
+        ]
+    ]
+}
